@@ -2,7 +2,7 @@
 
 Este projeto implementa análise de rotas aéreas brasileiras utilizando **Teoria dos Grafos**.
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -14,7 +14,7 @@ docs/
  └── Relatorio_Parte2.txt
 ```
 
-## ▶️ Como executar
+## Como executar
 
 1. Instale Python 3.10+
 2. Coloque seu arquivo `grafo_aeroportos_60.txt` na raiz
